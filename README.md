@@ -1,1 +1,1 @@
-# SNS Lint
+# snslint
